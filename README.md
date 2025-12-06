@@ -9,4 +9,4 @@ React • TypeScript • JavaScript • Vite • Tailwind • Git • HTML • C
 
 🎯 Currently learning
 
-PWA features • Better UI/UX • Advanced React patterns
+PWA features • Better UI/UX • App deployment & hosting
